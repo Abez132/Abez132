@@ -3,8 +3,22 @@
 🎓 Software Engineering Student at Addis Ababa Science and Technology University (Expected 2027)
 💻 Passionate about Fullstack, Mobile, and Game Development
 🚀 I enjoy building real-world applications that solve practical problems
-📫 Connect with me
 
+🛠️ Tech Stack
+
+Languages:
+JavaScript, Java, C++, SQL, PHP
+
+Frontend:
+React.js, Next.js, HTML, CSS, TailwindCSS
+
+Mobile:
+Flutter
+
+Backend & Tools:
+Node.js, MySQL, Firebase, Git, GitHub
+
+📫 Connect with me
 📧 Email: Abenezerdaniel2wb0@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/abenezer-daniel/
 
