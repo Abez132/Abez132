@@ -4,6 +4,8 @@
 💻 Passionate about Fullstack, Mobile, and Game Development
 🚀 I enjoy building real-world applications that solve practical problems
 
+portfolio: https://abenezerdanielportfolio-3ufe.vercel.app/
+
 🛠️ Tech Stack
 
 Languages:
